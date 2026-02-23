@@ -37,6 +37,8 @@ Les résultats des tests de relation ManyToMany, OneToMany
 # Diagramme de classe représentant les classes, les associations et les cardinalités:
 ![DiagClassePic](https://github.com/user-attachments/assets/1b462ec6-f53c-42a3-a51d-88ca716e4e67)
 
+  >Réalisé par : Hafsa Belahnech
+
 
 
 
