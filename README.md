@@ -1,14 +1,13 @@
 # TP 3
 > Lier Salle–Réservation–Utilisateur, ajouter Équipement (ManyToMany), expérimenter cascade et suppression orpheline
-> > Structure du projet:
->  <img width="510" height="529" alt="image" src="https://github.com/user-attachments/assets/4ded198c-505b-42cd-9eff-4fa447f6e466" />
+
 
 # Images d'exécution du projet :  
 > Ces résultats représentent :     
-Les requêtes SQL générées par Hibernate  
-Les messages qui indiquent la création et la liaison des entités  
-Les résultats des tests de cascade et de suppression orpheline  
-Les résultats des tests de relation ManyToMany, OneToMany
+- Les requêtes SQL générées par Hibernate  
+- Les messages qui indiquent la création et la liaison des entités  
+- Les résultats des tests de cascade et de suppression orpheline  
+- Les résultats des tests de relation ManyToMany, OneToMany
 
 ![1](https://github.com/user-attachments/assets/6d32ac49-f0d0-43c4-a2fd-336a01e98370)
 ![2](https://github.com/user-attachments/assets/0038ee4f-cc0d-4d11-b35e-715d7d0b13d4)
